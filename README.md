@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Website
 - 📫 How to reach me aresjenson@gmail.com
 - 😄 Pronouns: They
-- ⚡ Fun fact: I dink a lot
+- ⚡ Fun fact: I drink a lot
 
 <!---
 Juwiru/Juwiru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
